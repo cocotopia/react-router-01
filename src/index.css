@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+ul{
+  list-style: none;
+  padding: 0;
+}
+ul li{
+  display: inline-block;
+  margin: 0 10px;
+}
+a{
+  color: #03b3e2;
+}
